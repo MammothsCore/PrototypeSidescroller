@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d019b804e7a2d754e94bbebec908f1ec, type: 3}
   m_Name: Skeleton_Sword_Shield
   m_EditorClassIdentifier: Assembly-CSharp::EnemyConfig
-  patrolSpeed: 5
+  patrolSpeed: 1
   groundCheckDistance: 0.7
   groundLayer:
-    serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8

@@ -1,0 +1,4758 @@
+fileFormatVersion: 2
+guid: ff2766a55d374e14097fb48488ba1256
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7421882593966814453
+    second: sidelvl3_0
+  - first:
+      213: -5623850529305325079
+    second: sidelvl3_1
+  - first:
+      213: -1209454964152495059
+    second: sidelvl3_2
+  - first:
+      213: 2191682833931149373
+    second: sidelvl3_3
+  - first:
+      213: 7578604998592201958
+    second: sidelvl3_4
+  - first:
+      213: -4244666867368441765
+    second: sidelvl3_5
+  - first:
+      213: 6678135073115149426
+    second: sidelvl3_6
+  - first:
+      213: 4074064703495921650
+    second: sidelvl3_7
+  - first:
+      213: -1742045715571819279
+    second: sidelvl3_8
+  - first:
+      213: -6857532664994120668
+    second: sidelvl3_9
+  - first:
+      213: 2875924113705789930
+    second: sidelvl3_10
+  - first:
+      213: 885037048492842943
+    second: sidelvl3_11
+  - first:
+      213: -3020110415063695966
+    second: sidelvl3_12
+  - first:
+      213: -4280883184004234349
+    second: sidelvl3_13
+  - first:
+      213: -1673440129726243241
+    second: sidelvl3_14
+  - first:
+      213: 7715945490078476689
+    second: sidelvl3_15
+  - first:
+      213: -6014940528554805015
+    second: sidelvl3_16
+  - first:
+      213: 7356480729585020451
+    second: sidelvl3_17
+  - first:
+      213: -7469292582569686083
+    second: sidelvl3_18
+  - first:
+      213: -8772539069087371327
+    second: sidelvl3_19
+  - first:
+      213: 6217079170315562399
+    second: sidelvl3_20
+  - first:
+      213: 6510994566544239718
+    second: sidelvl3_21
+  - first:
+      213: 6859394253506118201
+    second: sidelvl3_22
+  - first:
+      213: -4768885109549896495
+    second: sidelvl3_23
+  - first:
+      213: 6910084392546230021
+    second: sidelvl3_24
+  - first:
+      213: -8735333509507520624
+    second: sidelvl3_25
+  - first:
+      213: -1531256795305475813
+    second: sidelvl3_26
+  - first:
+      213: -4144500133490435968
+    second: sidelvl3_27
+  - first:
+      213: 4676805740256340958
+    second: sidelvl3_28
+  - first:
+      213: -1115899605945027894
+    second: sidelvl3_29
+  - first:
+      213: -1682115622336296329
+    second: sidelvl3_30
+  - first:
+      213: 5105523313029730172
+    second: sidelvl3_31
+  - first:
+      213: -5113193008688292780
+    second: sidelvl3_32
+  - first:
+      213: 8374274481965289417
+    second: sidelvl3_33
+  - first:
+      213: 9060430956342968041
+    second: sidelvl3_34
+  - first:
+      213: 1659294535139444744
+    second: sidelvl3_35
+  - first:
+      213: -5448225611353088321
+    second: sidelvl3_36
+  - first:
+      213: -1875546367762051497
+    second: sidelvl3_37
+  - first:
+      213: 3304512499324913171
+    second: sidelvl3_38
+  - first:
+      213: 212821254444070432
+    second: sidelvl3_39
+  - first:
+      213: -5820606649377010023
+    second: sidelvl3_40
+  - first:
+      213: -2306913645026610803
+    second: sidelvl3_41
+  - first:
+      213: 1159189980601860871
+    second: sidelvl3_42
+  - first:
+      213: -8009831565495784166
+    second: sidelvl3_43
+  - first:
+      213: -885247740769431402
+    second: sidelvl3_44
+  - first:
+      213: -7499902571128893738
+    second: sidelvl3_45
+  - first:
+      213: -1625218398924555670
+    second: sidelvl3_46
+  - first:
+      213: -5796451315744510536
+    second: sidelvl3_47
+  - first:
+      213: -8435123906910618730
+    second: sidelvl3_48
+  - first:
+      213: -1145914452531792625
+    second: sidelvl3_49
+  - first:
+      213: 5195118054380039209
+    second: sidelvl3_50
+  - first:
+      213: -7213677983263610152
+    second: sidelvl3_51
+  - first:
+      213: -1002179746015298852
+    second: sidelvl3_52
+  - first:
+      213: 8592424993524626425
+    second: sidelvl3_53
+  - first:
+      213: -7791927601491747650
+    second: sidelvl3_54
+  - first:
+      213: 658845960566538090
+    second: sidelvl3_55
+  - first:
+      213: -1120153781313716816
+    second: sidelvl3_56
+  - first:
+      213: -6824282245359851771
+    second: sidelvl3_57
+  - first:
+      213: 6484707048338718681
+    second: sidelvl3_58
+  - first:
+      213: 3272194853437926699
+    second: sidelvl3_59
+  - first:
+      213: -831455435359982653
+    second: sidelvl3_60
+  - first:
+      213: -5736079484564723215
+    second: sidelvl3_61
+  - first:
+      213: 4502841813197975158
+    second: sidelvl3_62
+  - first:
+      213: 1156187041151267037
+    second: sidelvl3_63
+  - first:
+      213: 7730159519113342295
+    second: sidelvl3_64
+  - first:
+      213: 2992188980099798118
+    second: sidelvl3_65
+  - first:
+      213: 7601289744922844659
+    second: sidelvl3_66
+  - first:
+      213: 6466153053950031468
+    second: sidelvl3_67
+  - first:
+      213: -433047021583473598
+    second: sidelvl3_68
+  - first:
+      213: 115433551878744993
+    second: sidelvl3_69
+  - first:
+      213: -2529516342098537893
+    second: sidelvl3_70
+  - first:
+      213: 6055912734515045629
+    second: sidelvl3_71
+  - first:
+      213: 7035984145534075086
+    second: sidelvl3_72
+  - first:
+      213: -6569602222071801853
+    second: sidelvl3_73
+  - first:
+      213: -9034144783338750463
+    second: sidelvl3_74
+  - first:
+      213: -7292291789891878033
+    second: sidelvl3_75
+  - first:
+      213: 2392193607920017770
+    second: sidelvl3_76
+  - first:
+      213: 6360032546282203541
+    second: sidelvl3_77
+  - first:
+      213: -4369661413437886577
+    second: sidelvl3_78
+  - first:
+      213: 5670598222036366923
+    second: sidelvl3_79
+  - first:
+      213: 4367383807399129051
+    second: sidelvl3_80
+  - first:
+      213: 1614991869592299966
+    second: sidelvl3_81
+  - first:
+      213: -3771591253780362588
+    second: sidelvl3_82
+  - first:
+      213: -4023236741602819158
+    second: sidelvl3_83
+  - first:
+      213: -1375555192673925904
+    second: sidelvl3_84
+  - first:
+      213: 5335519163224657716
+    second: sidelvl3_85
+  - first:
+      213: 3771570899080524447
+    second: sidelvl3_86
+  - first:
+      213: -5209604236873591783
+    second: sidelvl3_87
+  - first:
+      213: -8885734187106856898
+    second: sidelvl3_88
+  - first:
+      213: 3605464917287668942
+    second: sidelvl3_89
+  - first:
+      213: 8459047624839526549
+    second: sidelvl3_90
+  - first:
+      213: -2187192008576677797
+    second: sidelvl3_91
+  - first:
+      213: 6753062468069589284
+    second: sidelvl3_92
+  - first:
+      213: 6178847036440647262
+    second: sidelvl3_93
+  - first:
+      213: 3734318100517026827
+    second: sidelvl3_94
+  - first:
+      213: 383139803163282139
+    second: sidelvl3_95
+  - first:
+      213: 6615977194065473832
+    second: sidelvl3_96
+  - first:
+      213: 7718077270793110293
+    second: sidelvl3_97
+  - first:
+      213: -5206002846444643279
+    second: sidelvl3_98
+  - first:
+      213: -4596991617734936360
+    second: sidelvl3_99
+  - first:
+      213: -6418725394350258149
+    second: sidelvl3_100
+  - first:
+      213: -9205377943610533967
+    second: sidelvl3_101
+  - first:
+      213: -6514218912766482467
+    second: sidelvl3_102
+  - first:
+      213: 2588807483703653310
+    second: sidelvl3_103
+  - first:
+      213: 5849190501383685083
+    second: sidelvl3_104
+  - first:
+      213: 2931751653739880402
+    second: sidelvl3_105
+  - first:
+      213: 8866241081232467484
+    second: sidelvl3_106
+  - first:
+      213: 2975459139955998206
+    second: sidelvl3_107
+  - first:
+      213: -1749931086909426469
+    second: sidelvl3_108
+  - first:
+      213: 5053866118891867197
+    second: sidelvl3_109
+  - first:
+      213: 3117465585019192443
+    second: sidelvl3_110
+  - first:
+      213: 8483585398177262595
+    second: sidelvl3_111
+  - first:
+      213: -6704034390579933425
+    second: sidelvl3_112
+  - first:
+      213: 1558410078009402361
+    second: sidelvl3_113
+  - first:
+      213: -7307908845970338105
+    second: sidelvl3_114
+  - first:
+      213: -4469571147766792661
+    second: sidelvl3_115
+  - first:
+      213: -2972589172973469322
+    second: sidelvl3_116
+  - first:
+      213: -7093721420201949791
+    second: sidelvl3_117
+  - first:
+      213: 3642460035626987815
+    second: sidelvl3_118
+  - first:
+      213: 6398091421952072645
+    second: sidelvl3_119
+  - first:
+      213: -3816303303787713708
+    second: sidelvl3_120
+  - first:
+      213: 8949106721054877294
+    second: sidelvl3_121
+  - first:
+      213: -8195609112083533784
+    second: sidelvl3_122
+  - first:
+      213: -1572507797045089933
+    second: sidelvl3_123
+  - first:
+      213: -4431491666289575355
+    second: sidelvl3_124
+  - first:
+      213: 3730034217380356894
+    second: sidelvl3_125
+  - first:
+      213: -606826327526969273
+    second: sidelvl3_126
+  - first:
+      213: 2010811775271694666
+    second: sidelvl3_127
+  - first:
+      213: 1100139106564779493
+    second: sidelvl3_128
+  - first:
+      213: -4633914404571553396
+    second: sidelvl3_129
+  - first:
+      213: -6194034266932417091
+    second: sidelvl3_130
+  - first:
+      213: 1284436972603913029
+    second: sidelvl3_131
+  - first:
+      213: -3582237168531861547
+    second: sidelvl3_132
+  - first:
+      213: -5676025395121776502
+    second: sidelvl3_133
+  - first:
+      213: -5492058624148636426
+    second: sidelvl3_134
+  - first:
+      213: -7414936051517836359
+    second: sidelvl3_135
+  - first:
+      213: -5412192117925674448
+    second: sidelvl3_136
+  - first:
+      213: 5993465481768086009
+    second: sidelvl3_137
+  - first:
+      213: -3465158216667431298
+    second: sidelvl3_138
+  - first:
+      213: 8777328346296438453
+    second: sidelvl3_139
+  - first:
+      213: 2809142059520106685
+    second: sidelvl3_140
+  - first:
+      213: 6696033861770845298
+    second: sidelvl3_141
+  - first:
+      213: -8925942828497692901
+    second: sidelvl3_142
+  - first:
+      213: -5387443903675991658
+    second: sidelvl3_143
+  - first:
+      213: 6816598417880280382
+    second: sidelvl3_144
+  - first:
+      213: 8521934138907940163
+    second: sidelvl3_145
+  - first:
+      213: -3270812846655937363
+    second: sidelvl3_146
+  - first:
+      213: 2718237180872842668
+    second: sidelvl3_147
+  - first:
+      213: -6721012610993954141
+    second: sidelvl3_148
+  - first:
+      213: -4466885073035176695
+    second: sidelvl3_149
+  - first:
+      213: 5189745511908296336
+    second: sidelvl3_150
+  - first:
+      213: 3778542630303280211
+    second: sidelvl3_151
+  - first:
+      213: -1641426102296091013
+    second: sidelvl3_152
+  - first:
+      213: 5704954657939632002
+    second: sidelvl3_153
+  - first:
+      213: -3882266914645714841
+    second: sidelvl3_154
+  - first:
+      213: -8729513935688669029
+    second: sidelvl3_155
+  - first:
+      213: 6457341952110238759
+    second: sidelvl3_156
+  - first:
+      213: 699204814090224950
+    second: sidelvl3_157
+  - first:
+      213: 7735793464619277797
+    second: sidelvl3_158
+  - first:
+      213: -5109895323421555691
+    second: sidelvl3_159
+  - first:
+      213: -6550749327253632845
+    second: sidelvl3_160
+  - first:
+      213: 4796338819613216420
+    second: sidelvl3_161
+  - first:
+      213: -1428279350464662532
+    second: sidelvl3_162
+  - first:
+      213: 2840668718874427262
+    second: sidelvl3_163
+  - first:
+      213: -7051846967468870572
+    second: sidelvl3_164
+  - first:
+      213: 5241272638464358766
+    second: sidelvl3_165
+  - first:
+      213: -4028032123323366922
+    second: sidelvl3_166
+  - first:
+      213: 4647813615363256898
+    second: sidelvl3_167
+  - first:
+      213: 2497209331995086032
+    second: sidelvl3_168
+  - first:
+      213: -1599499416180276776
+    second: sidelvl3_169
+  - first:
+      213: -3874244138399869516
+    second: sidelvl3_170
+  - first:
+      213: 5965108096692092855
+    second: sidelvl3_171
+  - first:
+      213: 1498702976764014074
+    second: sidelvl3_172
+  - first:
+      213: -3726973770972279123
+    second: sidelvl3_173
+  - first:
+      213: -1025335667717333491
+    second: sidelvl3_174
+  - first:
+      213: -539027695356498353
+    second: sidelvl3_175
+  - first:
+      213: 7690740697439308460
+    second: sidelvl3_176
+  - first:
+      213: -6964140484476073074
+    second: sidelvl3_177
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sidelvl3_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1281
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b04f58a1d200990800000000000000
+      internalID: -7421882593966814453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1281
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e11dd27db114f1b0800000000000000
+      internalID: -5623850529305325079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1281
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d249bd93e17273fe0800000000000000
+      internalID: -1209454964152495059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1281
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30a9c8eceb6a6e10800000000000000
+      internalID: 2191682833931149373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1281
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e48612d71d9c2960800000000000000
+      internalID: 7578604998592201958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1281
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5842ac29f9e715c0800000000000000
+      internalID: -4244666867368441765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1281
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2741b1b77708dac50800000000000000
+      internalID: 6678135073115149426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1217
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffd4d3334cf98830800000000000000
+      internalID: 4074064703495921650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1217
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcb9d4c6a203d7e0800000000000000
+      internalID: -1742045715571819279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1217
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c336bbf5625d0a0800000000000000
+      internalID: -6857532664994120668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1217
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9e96e7eb559e720800000000000000
+      internalID: 2875924113705789930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1217
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfd978a188484c00800000000000000
+      internalID: 885037048492842943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1217
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adbba724996616d0800000000000000
+      internalID: -3020110415063695966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_13
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1217
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3930c7cdc6f3794c0800000000000000
+      internalID: -4280883184004234349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1153
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e98ca711fb6c8e0800000000000000
+      internalID: -1673440129726243241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1153
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199a76ada8b841b60800000000000000
+      internalID: 7715945490078476689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1153
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8f3623573a68ca0800000000000000
+      internalID: -6014940528554805015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1153
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32eebeb4f38771660800000000000000
+      internalID: 7356480729585020451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1153
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb497c58fdb75890800000000000000
+      internalID: -7469292582569686083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_19
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1153
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfafc0123ea14680800000000000000
+      internalID: -8772539069087371327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1153
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9da32fd090874650800000000000000
+      internalID: 6217079170315562399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1089
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c2e51cf03bb5a50800000000000000
+      internalID: 6510994566544239718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_22
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1089
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932869e1bb6713f50800000000000000
+      internalID: 6859394253506118201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_23
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1089
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dce0ae624481ddb0800000000000000
+      internalID: -4768885109549896495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_24
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1089
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f50b1d42d85ef50800000000000000
+      internalID: 6910084392546230021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1089
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097ec33747cd5c680800000000000000
+      internalID: -8735333509507520624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1089
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b110aefbe02efbae0800000000000000
+      internalID: -1531256795305475813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1089
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0885ebb4617cb76c0800000000000000
+      internalID: -4144500133490435968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1024
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbac7fba0a57e040800000000000000
+      internalID: 4676805740256340958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_29
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1023
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2f5ae78378380f0800000000000000
+      internalID: -1115899605945027894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_30
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1023
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a8283f0cce7a8e0800000000000000
+      internalID: -1682115622336296329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_31
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1023
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fcc9927667ad640800000000000000
+      internalID: 5105523313029730172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1023
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c9f19ac0a4a09b0800000000000000
+      internalID: -5113193008688292780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_33
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1023
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfc825c546673470800000000000000
+      internalID: 8374274481965289417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1023
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee76c853fd1dbd70800000000000000
+      internalID: 9060430956342968041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_35
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1023
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808cbb0a69ff60710800000000000000
+      internalID: 1659294535139444744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 961
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe1d132ca30464b0800000000000000
+      internalID: -5448225611353088321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_37
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 961
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ec4cdf388b8f5e0800000000000000
+      internalID: -1875546367762051497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 961
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316891e2c9cfbdd20800000000000000
+      internalID: 3304512499324913171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 961
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026bac7adc714f200800000000000000
+      internalID: 212821254444070432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_40
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 961
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e4b9e571d093fa0800000000000000
+      internalID: -5820606649377010023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 961
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81ffac23423cffd0800000000000000
+      internalID: -2306913645026610803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_42
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 961
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70347fc4525461010800000000000000
+      internalID: 1159189980601860871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_43
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 961
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1da9eb01ac57d090800000000000000
+      internalID: -8009831565495784166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 897
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6909839bed7f6b3f0800000000000000
+      internalID: -885247740769431402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 897
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dec2d5095efae790800000000000000
+      internalID: -7499902571128893738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 898
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a3ca91a701279e0800000000000000
+      internalID: -1625218398924555670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 898
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bde33f3d3ede8fa0800000000000000
+      internalID: -5796451315744510536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_48
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 898
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bff247f7b60fa80800000000000000
+      internalID: -8435123906910618730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_49
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 898
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f053bd170e4e810f0800000000000000
+      internalID: -1145914452531792625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_50
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 898
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c6a857854c81840800000000000000
+      internalID: 5195118054380039209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_51
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 898
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da248b081ed3eb90800000000000000
+      internalID: -7213677983263610152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_52
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 833
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdabaada4da8712f0800000000000000
+      internalID: -1002179746015298852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_53
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 833
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3393ac10d6e3770800000000000000
+      internalID: 8592424993524626425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_54
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 833
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcd58d31238dd390800000000000000
+      internalID: -7791927601491747650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_55
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 833
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ff44119e0b42900800000000000000
+      internalID: 658845960566538090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_56
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 833
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd3cfa121a6470f0800000000000000
+      internalID: -1120153781313716816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_57
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 833
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507225654774b41a0800000000000000
+      internalID: -6824282245359851771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_58
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 833
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df73b8f3be4ef950800000000000000
+      internalID: 6484707048338718681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_59
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 833
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d6703e1eb296d20800000000000000
+      internalID: 3272194853437926699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_60
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 769
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbecc0dfa31674f0800000000000000
+      internalID: -831455435359982653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_61
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 769
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f92d1f891a5560b0800000000000000
+      internalID: -5736079484564723215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_62
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 768
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ee073a5ce4d7e30800000000000000
+      internalID: 4502841813197975158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_63
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 767
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd03bb9fcf99b0010800000000000000
+      internalID: 1156187041151267037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_64
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 768
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dead1602b074b60800000000000000
+      internalID: 7730159519113342295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_65
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 769
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664dfab2604668920800000000000000
+      internalID: 2992188980099798118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_66
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 768
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd12f8efb43d7960800000000000000
+      internalID: 7601289744922844659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_67
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 767
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66bff381f36cb950800000000000000
+      internalID: 6466153053950031468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_68
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 768
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244e97b37028df9f0800000000000000
+      internalID: -433047021583473598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_69
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 705
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abe4ee243a1a9100800000000000000
+      internalID: 115433551878744993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_70
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 705
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52dbafe94a55ecd0800000000000000
+      internalID: -2529516342098537893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_71
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 706
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4a883eb8cea0450800000000000000
+      internalID: 6055912734515045629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_72
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 706
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0c6d75d46d4a160800000000000000
+      internalID: 7035984145534075086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 705
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3081bc5169514d4a0800000000000000
+      internalID: -6569602222071801853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_74
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 705
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e35ab3f2540a280800000000000000
+      internalID: -9034144783338750463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_75
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 705
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f634ff8d0439cca90800000000000000
+      internalID: -7292291789891878033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_76
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 705
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61680a7967c23120800000000000000
+      internalID: 2392193607920017770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_77
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 705
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599e21967ef534850800000000000000
+      internalID: 6360032546282203541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 641
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fad4f8818db53c0800000000000000
+      internalID: -4369661413437886577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 641
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b467070f90302be40800000000000000
+      internalID: 5670598222036366923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 640
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf61d5fe601c9c30800000000000000
+      internalID: 4367383807399129051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_81
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 640
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9613e7c8a996610800000000000000
+      internalID: 1614991869592299966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 640
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa8378ccbd98abc0800000000000000
+      internalID: -3771591253780362588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 641
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3c671ef779a28c0800000000000000
+      internalID: -4023236741602819158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f40abb17db09ece0800000000000000
+      internalID: -1375555192673925904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 640
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f8b4009629b0a40800000000000000
+      internalID: 5335519163224657716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 640
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9235e400cf475430800000000000000
+      internalID: 3771570899080524447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_87
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 577
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91497c85c84c3b7b0800000000000000
+      internalID: -5209604236873591783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 577
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3093f0e5d78fa480800000000000000
+      internalID: -8885734187106856898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_89
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 578
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc801d5d3f290230800000000000000
+      internalID: 3605464917287668942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_90
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 578
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598fba03ff2946570800000000000000
+      internalID: 8459047624839526549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_91
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 577
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58c639d47885a1e0800000000000000
+      internalID: -2187192008576677797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 577
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4218f431982b7bd50800000000000000
+      internalID: 6753062468069589284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_93
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 577
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56158884acafb550800000000000000
+      internalID: 6178847036440647262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_94
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 577
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cf0a3f686f2d330800000000000000
+      internalID: 3734318100517026827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_95
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 577
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda4cdafe9f215500800000000000000
+      internalID: 383139803163282139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_96
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 513
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821bb5e743ca0db50800000000000000
+      internalID: 6615977194065473832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_97
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 513
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513c3aab26e1c1b60800000000000000
+      internalID: 7718077270793110293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_98
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 513
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c9ef56eff80c7b0800000000000000
+      internalID: -5206002846444643279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_99
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 513
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8f575ca743430c0800000000000000
+      internalID: -4596991617734936360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_100
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 513
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1849fef24b1ce6a0800000000000000
+      internalID: -6418725394350258149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_101
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 513
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7d0ef488def3080800000000000000
+      internalID: -9205377943610533967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_102
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 449
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd72c63a968d895a0800000000000000
+      internalID: -6514218912766482467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_103
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 449
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3770ab0ba4de320800000000000000
+      internalID: 2588807483703653310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_104
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 449
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3409a45cf7c2150800000000000000
+      internalID: 5849190501383685083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 449
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df54d2989cafa820800000000000000
+      internalID: 2931751653739880402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_106
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 449
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1626dbb9473b0b70800000000000000
+      internalID: 8866241081232467484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 449
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd34c8b254fa4920800000000000000
+      internalID: 2975459139955998206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 385
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4b95fa2fef6b7e0800000000000000
+      internalID: -1749931086909426469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 385
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c8ee66570f22640800000000000000
+      internalID: 5053866118891867197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_110
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 385
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74039abe66734b20800000000000000
+      internalID: 3117465585019192443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_111
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 385
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ceb00c8ffbbb570800000000000000
+      internalID: 8483585398177262595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_112
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 385
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f0b73cd3c76f2a0800000000000000
+      internalID: -6704034390579933425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_113
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 385
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3a32a85b590a510800000000000000
+      internalID: 1558410078009402361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_114
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 321
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cec001af97159a90800000000000000
+      internalID: -7307908845970338105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_115
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 321
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e760fc8b4e8f1c0800000000000000
+      internalID: -4469571147766792661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_116
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 321
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6718eb985ed3fb6d0800000000000000
+      internalID: -2972589172973469322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_117
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 321
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a58845d3f90e8d90800000000000000
+      internalID: -7093721420201949791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_118
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 321
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7217a149a1e9c8230800000000000000
+      internalID: 3642460035626987815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_119
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 321
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb5dedef369ac850800000000000000
+      internalID: 6398091421952072645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_120
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 257
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b65966d54c90bc0800000000000000
+      internalID: -3816303303787713708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_121
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 256
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66698df52d913c70800000000000000
+      internalID: 8949106721054877294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_122
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 255
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8207e4c4fe8534e80800000000000000
+      internalID: -8195609112083533784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_123
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 255
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37968967d745d2ae0800000000000000
+      internalID: -1572507797045089933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_124
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 255
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ab4bdfecd2082c0800000000000000
+      internalID: -4431491666289575355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_125
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 255
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13220fab5eb3c330800000000000000
+      internalID: 3730034217380356894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_126
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 255
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74076639bae1497f0800000000000000
+      internalID: -606826327526969273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_127
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 255
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41fd37e7a6d7eb10800000000000000
+      internalID: 2010811775271694666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_128
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 255
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed2f4a40ba744f00800000000000000
+      internalID: 1100139106564779493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_129
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 255
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8162fb866701bfb0800000000000000
+      internalID: -4633914404571553396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_130
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 255
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd65e0d6ae5a0aa0800000000000000
+      internalID: -6194034266932417091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_131
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 255
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5433f601f9c33d110800000000000000
+      internalID: 1284436972603913029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_132
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 255
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df05745646594ec0800000000000000
+      internalID: -3582237168531861547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_133
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 193
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a889babd9f4ba31b0800000000000000
+      internalID: -5676025395121776502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_134
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 193
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcfffd87c948c3b0800000000000000
+      internalID: -5492058624148636426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_135
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 193
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3ba0972fad81990800000000000000
+      internalID: -7414936051517836359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_136
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 193
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0320fda91f704e4b0800000000000000
+      internalID: -5412192117925674448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_137
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 193
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f92a56d9111d2350800000000000000
+      internalID: 5993465481768086009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_138
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 193
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ef20d06f849efc0800000000000000
+      internalID: -3465158216667431298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_139
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 193
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be47fd60a55fc970800000000000000
+      internalID: 8777328346296438453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_140
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 193
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db02e45d1d31cf620800000000000000
+      internalID: 2809142059520106685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_141
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 193
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c96d6f1571dec50800000000000000
+      internalID: 6696033861770845298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_142
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 193
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1713f50a4ea02480800000000000000
+      internalID: -8925942828497692901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_143
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 193
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6997c024054fb35b0800000000000000
+      internalID: -5387443903675991658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_144
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 193
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d6e3a252c699e50800000000000000
+      internalID: 6816598417880280382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_145
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 193
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345d1ecb2fdf34670800000000000000
+      internalID: 8521934138907940163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 129
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4e944ab0dbb92d0800000000000000
+      internalID: -3270812846655937363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_147
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 128
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad5f2d605e19b520800000000000000
+      internalID: 2718237180872842668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_148
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 130
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2e8c6c3aa2ab2a0800000000000000
+      internalID: -6721012610993954141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_149
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 129
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9055e3151bf6202c0800000000000000
+      internalID: -4466885073035176695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_150
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 129
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096c8ffeb0ea50840800000000000000
+      internalID: 5189745511908296336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_151
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 129
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ca5efa084107430800000000000000
+      internalID: 3778542630303280211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_152
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 129
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76669718ab7839e0800000000000000
+      internalID: -1641426102296091013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_153
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 129
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fa33609021c2f40800000000000000
+      internalID: 5704954657939632002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_154
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 129
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7685a4d6fca6f1ac0800000000000000
+      internalID: -3882266914645714841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_155
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 129
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98647193598ad680800000000000000
+      internalID: -8729513935688669029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_156
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 129
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c12c00b461d9950800000000000000
+      internalID: 6457341952110238759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_157
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 129
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6354719e21314b900800000000000000
+      internalID: 699204814090224950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_158
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 129
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed9b6a8b2f0b5b60800000000000000
+      internalID: 7735793464619277797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_159
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 65
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5144708d6410619b0800000000000000
+      internalID: -5109895323421555691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_160
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 65
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b80b68b1301715a0800000000000000
+      internalID: -6550749327253632845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_161
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 65
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae467d8eb4009240800000000000000
+      internalID: 4796338819613216420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_162
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 65
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf337838f7bbd2ce0800000000000000
+      internalID: -1428279350464662532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_163
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 65
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ff21936251c6720800000000000000
+      internalID: 2840668718874427262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_164
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 65
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4543a9d9b8ec22e90800000000000000
+      internalID: -7051846967468870572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_165
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 65
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6974aaf1bdbcb840800000000000000
+      internalID: 5241272638464358766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_166
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 65
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1c271102e8918c0800000000000000
+      internalID: -4028032123323366922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 65
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24273f5abd9508040800000000000000
+      internalID: 4647813615363256898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_168
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 65
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc8b5b18aed7a220800000000000000
+      internalID: 2497209331995086032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_169
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 65
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1412861cf6dc9e0800000000000000
+      internalID: -1599499416180276776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_170
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 65
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b559859b7beb3ac0800000000000000
+      internalID: -3874244138399869516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_171
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 65
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf732e953258c250800000000000000
+      internalID: 5965108096692092855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afde6d9ba667cc410800000000000000
+      internalID: 1498702976764014074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daecff50a11274cc0800000000000000
+      internalID: -3726973770972279123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_174
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e9b2684a645c1f0800000000000000
+      internalID: -1025335667717333491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_175
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ead2eba2df488f0800000000000000
+      internalID: -539027695356498353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa8282caeffaba60800000000000000
+      internalID: 7690740697439308460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidelvl3_177
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b03e080276a5f90800000000000000
+      internalID: -6964140484476073074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sidelvl3_0: -7421882593966814453
+      sidelvl3_1: -5623850529305325079
+      sidelvl3_10: 2875924113705789930
+      sidelvl3_100: -6418725394350258149
+      sidelvl3_101: -9205377943610533967
+      sidelvl3_102: -6514218912766482467
+      sidelvl3_103: 2588807483703653310
+      sidelvl3_104: 5849190501383685083
+      sidelvl3_105: 2931751653739880402
+      sidelvl3_106: 8866241081232467484
+      sidelvl3_107: 2975459139955998206
+      sidelvl3_108: -1749931086909426469
+      sidelvl3_109: 5053866118891867197
+      sidelvl3_11: 885037048492842943
+      sidelvl3_110: 3117465585019192443
+      sidelvl3_111: 8483585398177262595
+      sidelvl3_112: -6704034390579933425
+      sidelvl3_113: 1558410078009402361
+      sidelvl3_114: -7307908845970338105
+      sidelvl3_115: -4469571147766792661
+      sidelvl3_116: -2972589172973469322
+      sidelvl3_117: -7093721420201949791
+      sidelvl3_118: 3642460035626987815
+      sidelvl3_119: 6398091421952072645
+      sidelvl3_12: -3020110415063695966
+      sidelvl3_120: -3816303303787713708
+      sidelvl3_121: 8949106721054877294
+      sidelvl3_122: -8195609112083533784
+      sidelvl3_123: -1572507797045089933
+      sidelvl3_124: -4431491666289575355
+      sidelvl3_125: 3730034217380356894
+      sidelvl3_126: -606826327526969273
+      sidelvl3_127: 2010811775271694666
+      sidelvl3_128: 1100139106564779493
+      sidelvl3_129: -4633914404571553396
+      sidelvl3_13: -4280883184004234349
+      sidelvl3_130: -6194034266932417091
+      sidelvl3_131: 1284436972603913029
+      sidelvl3_132: -3582237168531861547
+      sidelvl3_133: -5676025395121776502
+      sidelvl3_134: -5492058624148636426
+      sidelvl3_135: -7414936051517836359
+      sidelvl3_136: -5412192117925674448
+      sidelvl3_137: 5993465481768086009
+      sidelvl3_138: -3465158216667431298
+      sidelvl3_139: 8777328346296438453
+      sidelvl3_14: -1673440129726243241
+      sidelvl3_140: 2809142059520106685
+      sidelvl3_141: 6696033861770845298
+      sidelvl3_142: -8925942828497692901
+      sidelvl3_143: -5387443903675991658
+      sidelvl3_144: 6816598417880280382
+      sidelvl3_145: 8521934138907940163
+      sidelvl3_146: -3270812846655937363
+      sidelvl3_147: 2718237180872842668
+      sidelvl3_148: -6721012610993954141
+      sidelvl3_149: -4466885073035176695
+      sidelvl3_15: 7715945490078476689
+      sidelvl3_150: 5189745511908296336
+      sidelvl3_151: 3778542630303280211
+      sidelvl3_152: -1641426102296091013
+      sidelvl3_153: 5704954657939632002
+      sidelvl3_154: -3882266914645714841
+      sidelvl3_155: -8729513935688669029
+      sidelvl3_156: 6457341952110238759
+      sidelvl3_157: 699204814090224950
+      sidelvl3_158: 7735793464619277797
+      sidelvl3_159: -5109895323421555691
+      sidelvl3_16: -6014940528554805015
+      sidelvl3_160: -6550749327253632845
+      sidelvl3_161: 4796338819613216420
+      sidelvl3_162: -1428279350464662532
+      sidelvl3_163: 2840668718874427262
+      sidelvl3_164: -7051846967468870572
+      sidelvl3_165: 5241272638464358766
+      sidelvl3_166: -4028032123323366922
+      sidelvl3_167: 4647813615363256898
+      sidelvl3_168: 2497209331995086032
+      sidelvl3_169: -1599499416180276776
+      sidelvl3_17: 7356480729585020451
+      sidelvl3_170: -3874244138399869516
+      sidelvl3_171: 5965108096692092855
+      sidelvl3_172: 1498702976764014074
+      sidelvl3_173: -3726973770972279123
+      sidelvl3_174: -1025335667717333491
+      sidelvl3_175: -539027695356498353
+      sidelvl3_176: 7690740697439308460
+      sidelvl3_177: -6964140484476073074
+      sidelvl3_18: -7469292582569686083
+      sidelvl3_19: -8772539069087371327
+      sidelvl3_2: -1209454964152495059
+      sidelvl3_20: 6217079170315562399
+      sidelvl3_21: 6510994566544239718
+      sidelvl3_22: 6859394253506118201
+      sidelvl3_23: -4768885109549896495
+      sidelvl3_24: 6910084392546230021
+      sidelvl3_25: -8735333509507520624
+      sidelvl3_26: -1531256795305475813
+      sidelvl3_27: -4144500133490435968
+      sidelvl3_28: 4676805740256340958
+      sidelvl3_29: -1115899605945027894
+      sidelvl3_3: 2191682833931149373
+      sidelvl3_30: -1682115622336296329
+      sidelvl3_31: 5105523313029730172
+      sidelvl3_32: -5113193008688292780
+      sidelvl3_33: 8374274481965289417
+      sidelvl3_34: 9060430956342968041
+      sidelvl3_35: 1659294535139444744
+      sidelvl3_36: -5448225611353088321
+      sidelvl3_37: -1875546367762051497
+      sidelvl3_38: 3304512499324913171
+      sidelvl3_39: 212821254444070432
+      sidelvl3_4: 7578604998592201958
+      sidelvl3_40: -5820606649377010023
+      sidelvl3_41: -2306913645026610803
+      sidelvl3_42: 1159189980601860871
+      sidelvl3_43: -8009831565495784166
+      sidelvl3_44: -885247740769431402
+      sidelvl3_45: -7499902571128893738
+      sidelvl3_46: -1625218398924555670
+      sidelvl3_47: -5796451315744510536
+      sidelvl3_48: -8435123906910618730
+      sidelvl3_49: -1145914452531792625
+      sidelvl3_5: -4244666867368441765
+      sidelvl3_50: 5195118054380039209
+      sidelvl3_51: -7213677983263610152
+      sidelvl3_52: -1002179746015298852
+      sidelvl3_53: 8592424993524626425
+      sidelvl3_54: -7791927601491747650
+      sidelvl3_55: 658845960566538090
+      sidelvl3_56: -1120153781313716816
+      sidelvl3_57: -6824282245359851771
+      sidelvl3_58: 6484707048338718681
+      sidelvl3_59: 3272194853437926699
+      sidelvl3_6: 6678135073115149426
+      sidelvl3_60: -831455435359982653
+      sidelvl3_61: -5736079484564723215
+      sidelvl3_62: 4502841813197975158
+      sidelvl3_63: 1156187041151267037
+      sidelvl3_64: 7730159519113342295
+      sidelvl3_65: 2992188980099798118
+      sidelvl3_66: 7601289744922844659
+      sidelvl3_67: 6466153053950031468
+      sidelvl3_68: -433047021583473598
+      sidelvl3_69: 115433551878744993
+      sidelvl3_7: 4074064703495921650
+      sidelvl3_70: -2529516342098537893
+      sidelvl3_71: 6055912734515045629
+      sidelvl3_72: 7035984145534075086
+      sidelvl3_73: -6569602222071801853
+      sidelvl3_74: -9034144783338750463
+      sidelvl3_75: -7292291789891878033
+      sidelvl3_76: 2392193607920017770
+      sidelvl3_77: 6360032546282203541
+      sidelvl3_78: -4369661413437886577
+      sidelvl3_79: 5670598222036366923
+      sidelvl3_8: -1742045715571819279
+      sidelvl3_80: 4367383807399129051
+      sidelvl3_81: 1614991869592299966
+      sidelvl3_82: -3771591253780362588
+      sidelvl3_83: -4023236741602819158
+      sidelvl3_84: -1375555192673925904
+      sidelvl3_85: 5335519163224657716
+      sidelvl3_86: 3771570899080524447
+      sidelvl3_87: -5209604236873591783
+      sidelvl3_88: -8885734187106856898
+      sidelvl3_89: 3605464917287668942
+      sidelvl3_9: -6857532664994120668
+      sidelvl3_90: 8459047624839526549
+      sidelvl3_91: -2187192008576677797
+      sidelvl3_92: 6753062468069589284
+      sidelvl3_93: 6178847036440647262
+      sidelvl3_94: 3734318100517026827
+      sidelvl3_95: 383139803163282139
+      sidelvl3_96: 6615977194065473832
+      sidelvl3_97: 7718077270793110293
+      sidelvl3_98: -5206002846444643279
+      sidelvl3_99: -4596991617734936360
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

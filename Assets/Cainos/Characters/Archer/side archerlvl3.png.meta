@@ -1,0 +1,4758 @@
+fileFormatVersion: 2
+guid: ec014c1a9befbd041aed06216db87aee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -632077240460384674
+    second: side archerlvl3_0
+  - first:
+      213: -273092132786489671
+    second: side archerlvl3_1
+  - first:
+      213: 5992283056034292413
+    second: side archerlvl3_2
+  - first:
+      213: -4783975019092321104
+    second: side archerlvl3_3
+  - first:
+      213: 4335617231721456205
+    second: side archerlvl3_4
+  - first:
+      213: -1240419431549754134
+    second: side archerlvl3_5
+  - first:
+      213: -3982574831230209427
+    second: side archerlvl3_6
+  - first:
+      213: -4309673137834691500
+    second: side archerlvl3_7
+  - first:
+      213: -1223362253388324804
+    second: side archerlvl3_8
+  - first:
+      213: -8769897286750110309
+    second: side archerlvl3_9
+  - first:
+      213: 3243368398978890421
+    second: side archerlvl3_10
+  - first:
+      213: 7141633712799550554
+    second: side archerlvl3_11
+  - first:
+      213: -6812144543104107771
+    second: side archerlvl3_12
+  - first:
+      213: -6742445027105621824
+    second: side archerlvl3_13
+  - first:
+      213: 4388722178487712694
+    second: side archerlvl3_14
+  - first:
+      213: -4064793541940298389
+    second: side archerlvl3_15
+  - first:
+      213: -3602882066835034
+    second: side archerlvl3_16
+  - first:
+      213: 7238548506854357246
+    second: side archerlvl3_17
+  - first:
+      213: -7193113712335551389
+    second: side archerlvl3_18
+  - first:
+      213: 2355429555721776684
+    second: side archerlvl3_19
+  - first:
+      213: 9027727028421979166
+    second: side archerlvl3_20
+  - first:
+      213: -5397657160794653402
+    second: side archerlvl3_21
+  - first:
+      213: 9106459398297106934
+    second: side archerlvl3_22
+  - first:
+      213: -1603571859511199361
+    second: side archerlvl3_23
+  - first:
+      213: -8942169286768443890
+    second: side archerlvl3_24
+  - first:
+      213: -830495902210834710
+    second: side archerlvl3_25
+  - first:
+      213: -769593775790445952
+    second: side archerlvl3_26
+  - first:
+      213: -6995505911040562050
+    second: side archerlvl3_27
+  - first:
+      213: 4003958363394260529
+    second: side archerlvl3_28
+  - first:
+      213: -5329624645216132338
+    second: side archerlvl3_29
+  - first:
+      213: 5466760341252184937
+    second: side archerlvl3_30
+  - first:
+      213: -5393191736260745183
+    second: side archerlvl3_31
+  - first:
+      213: -7533950142790297813
+    second: side archerlvl3_32
+  - first:
+      213: 6367542397069532065
+    second: side archerlvl3_33
+  - first:
+      213: -1381878415616124810
+    second: side archerlvl3_34
+  - first:
+      213: 5358766375892542275
+    second: side archerlvl3_35
+  - first:
+      213: 6556125205980478803
+    second: side archerlvl3_36
+  - first:
+      213: 6126019310226699760
+    second: side archerlvl3_37
+  - first:
+      213: -6197225492273781875
+    second: side archerlvl3_38
+  - first:
+      213: 553782020633788928
+    second: side archerlvl3_39
+  - first:
+      213: -7502402621770768642
+    second: side archerlvl3_40
+  - first:
+      213: -6098048138291893015
+    second: side archerlvl3_41
+  - first:
+      213: 9160103634239277404
+    second: side archerlvl3_42
+  - first:
+      213: -1031556481212581773
+    second: side archerlvl3_43
+  - first:
+      213: 4636823557321050201
+    second: side archerlvl3_44
+  - first:
+      213: -4977431930649219999
+    second: side archerlvl3_45
+  - first:
+      213: -7467768487737964298
+    second: side archerlvl3_46
+  - first:
+      213: 6177699260374433908
+    second: side archerlvl3_47
+  - first:
+      213: 7402415803494434045
+    second: side archerlvl3_48
+  - first:
+      213: 654361788506637923
+    second: side archerlvl3_49
+  - first:
+      213: 3999647658812201050
+    second: side archerlvl3_50
+  - first:
+      213: -3225418728481858475
+    second: side archerlvl3_51
+  - first:
+      213: -1205180850988973412
+    second: side archerlvl3_52
+  - first:
+      213: 1543693511538270160
+    second: side archerlvl3_53
+  - first:
+      213: 1507994857866931170
+    second: side archerlvl3_54
+  - first:
+      213: 365251829159410777
+    second: side archerlvl3_55
+  - first:
+      213: -1036080998764985226
+    second: side archerlvl3_56
+  - first:
+      213: -2662370648179448638
+    second: side archerlvl3_57
+  - first:
+      213: -6008428162920449023
+    second: side archerlvl3_58
+  - first:
+      213: 2659389163449041171
+    second: side archerlvl3_59
+  - first:
+      213: 2060282849095874672
+    second: side archerlvl3_60
+  - first:
+      213: -1348781606754378765
+    second: side archerlvl3_61
+  - first:
+      213: -4548459579110413049
+    second: side archerlvl3_62
+  - first:
+      213: -5162130378869164130
+    second: side archerlvl3_63
+  - first:
+      213: 2547876801607911211
+    second: side archerlvl3_64
+  - first:
+      213: 5839451909813206741
+    second: side archerlvl3_65
+  - first:
+      213: 5340120878152382167
+    second: side archerlvl3_66
+  - first:
+      213: -8022308223858030844
+    second: side archerlvl3_67
+  - first:
+      213: 7060349900297337045
+    second: side archerlvl3_68
+  - first:
+      213: 6228328476189003130
+    second: side archerlvl3_69
+  - first:
+      213: -5469924035009069744
+    second: side archerlvl3_70
+  - first:
+      213: 2437187278175196012
+    second: side archerlvl3_71
+  - first:
+      213: -4214190166758270153
+    second: side archerlvl3_72
+  - first:
+      213: 3914215106696188384
+    second: side archerlvl3_73
+  - first:
+      213: -612413234603833380
+    second: side archerlvl3_74
+  - first:
+      213: 469489060789056711
+    second: side archerlvl3_75
+  - first:
+      213: 4426990548122565277
+    second: side archerlvl3_76
+  - first:
+      213: 8619857142029684064
+    second: side archerlvl3_77
+  - first:
+      213: 8538544052316759136
+    second: side archerlvl3_78
+  - first:
+      213: 2152486211029692941
+    second: side archerlvl3_79
+  - first:
+      213: 751941767046746419
+    second: side archerlvl3_80
+  - first:
+      213: 1765668303124844900
+    second: side archerlvl3_81
+  - first:
+      213: 4558138566100599351
+    second: side archerlvl3_82
+  - first:
+      213: -6189832369736953435
+    second: side archerlvl3_83
+  - first:
+      213: 2915919259241296755
+    second: side archerlvl3_84
+  - first:
+      213: -8964191947748282771
+    second: side archerlvl3_85
+  - first:
+      213: -4510996693565643217
+    second: side archerlvl3_86
+  - first:
+      213: -7585379892068848656
+    second: side archerlvl3_87
+  - first:
+      213: -4738327706518130134
+    second: side archerlvl3_88
+  - first:
+      213: -7193820713371547603
+    second: side archerlvl3_89
+  - first:
+      213: 1326149550857430861
+    second: side archerlvl3_90
+  - first:
+      213: -4951334425377050153
+    second: side archerlvl3_91
+  - first:
+      213: -2692800428500235801
+    second: side archerlvl3_92
+  - first:
+      213: 4390255010058639985
+    second: side archerlvl3_93
+  - first:
+      213: 6199045337885238188
+    second: side archerlvl3_94
+  - first:
+      213: -2963083961598640329
+    second: side archerlvl3_95
+  - first:
+      213: -3642986435727399302
+    second: side archerlvl3_96
+  - first:
+      213: 2847192807338028545
+    second: side archerlvl3_97
+  - first:
+      213: 4718739098373681200
+    second: side archerlvl3_98
+  - first:
+      213: -917203536991528630
+    second: side archerlvl3_99
+  - first:
+      213: 5957724063553054936
+    second: side archerlvl3_100
+  - first:
+      213: 7377143809350396104
+    second: side archerlvl3_101
+  - first:
+      213: -6940194332085842397
+    second: side archerlvl3_102
+  - first:
+      213: -1988135969240432675
+    second: side archerlvl3_103
+  - first:
+      213: 8827819805691616464
+    second: side archerlvl3_104
+  - first:
+      213: -1177462113618147561
+    second: side archerlvl3_105
+  - first:
+      213: 7390015924183036559
+    second: side archerlvl3_106
+  - first:
+      213: 51340074785589486
+    second: side archerlvl3_107
+  - first:
+      213: -6562091538086607600
+    second: side archerlvl3_108
+  - first:
+      213: -252844608320148727
+    second: side archerlvl3_109
+  - first:
+      213: 862470027292489826
+    second: side archerlvl3_110
+  - first:
+      213: 4343025132194146433
+    second: side archerlvl3_111
+  - first:
+      213: -6867166918662108189
+    second: side archerlvl3_112
+  - first:
+      213: 464728319034101173
+    second: side archerlvl3_113
+  - first:
+      213: -5728619449609284667
+    second: side archerlvl3_114
+  - first:
+      213: 6520155423272317613
+    second: side archerlvl3_115
+  - first:
+      213: 1559039819027103
+    second: side archerlvl3_116
+  - first:
+      213: 2716497530344124627
+    second: side archerlvl3_117
+  - first:
+      213: 4242372905629326507
+    second: side archerlvl3_118
+  - first:
+      213: -1951017335405598580
+    second: side archerlvl3_119
+  - first:
+      213: -6313189634481653169
+    second: side archerlvl3_120
+  - first:
+      213: -1766278493972959811
+    second: side archerlvl3_121
+  - first:
+      213: -3227599996274883437
+    second: side archerlvl3_122
+  - first:
+      213: -1728690411248560865
+    second: side archerlvl3_123
+  - first:
+      213: -5839140662581856689
+    second: side archerlvl3_124
+  - first:
+      213: -3741642409745073846
+    second: side archerlvl3_125
+  - first:
+      213: 1085663548179045255
+    second: side archerlvl3_126
+  - first:
+      213: 1072869189141332243
+    second: side archerlvl3_127
+  - first:
+      213: -2183002173063633862
+    second: side archerlvl3_128
+  - first:
+      213: -5550631459634363861
+    second: side archerlvl3_129
+  - first:
+      213: -3244312921111885197
+    second: side archerlvl3_130
+  - first:
+      213: 2480397456541114172
+    second: side archerlvl3_131
+  - first:
+      213: -6569010051228667567
+    second: side archerlvl3_132
+  - first:
+      213: -5239740730518453373
+    second: side archerlvl3_133
+  - first:
+      213: 2027286440408225713
+    second: side archerlvl3_134
+  - first:
+      213: -3261639107942605754
+    second: side archerlvl3_135
+  - first:
+      213: 2242754568046699034
+    second: side archerlvl3_136
+  - first:
+      213: 7030844684768811403
+    second: side archerlvl3_137
+  - first:
+      213: -3726437107455050816
+    second: side archerlvl3_138
+  - first:
+      213: -8462329770259626419
+    second: side archerlvl3_139
+  - first:
+      213: -1189862635098065606
+    second: side archerlvl3_140
+  - first:
+      213: -7418064265348621120
+    second: side archerlvl3_141
+  - first:
+      213: -2768984764681385746
+    second: side archerlvl3_142
+  - first:
+      213: -284471429294282634
+    second: side archerlvl3_143
+  - first:
+      213: 5603570230965735330
+    second: side archerlvl3_144
+  - first:
+      213: 1314869193932407048
+    second: side archerlvl3_145
+  - first:
+      213: 8786195273698489301
+    second: side archerlvl3_146
+  - first:
+      213: -7216285810547559473
+    second: side archerlvl3_147
+  - first:
+      213: 1882185682848863167
+    second: side archerlvl3_148
+  - first:
+      213: -5470483173719144899
+    second: side archerlvl3_149
+  - first:
+      213: -5127066429852694744
+    second: side archerlvl3_150
+  - first:
+      213: 652586620340375444
+    second: side archerlvl3_151
+  - first:
+      213: -3498386781285537995
+    second: side archerlvl3_152
+  - first:
+      213: -204229054878599112
+    second: side archerlvl3_153
+  - first:
+      213: 4235959643294859998
+    second: side archerlvl3_154
+  - first:
+      213: -1518950759182490874
+    second: side archerlvl3_155
+  - first:
+      213: 4377298157797972069
+    second: side archerlvl3_156
+  - first:
+      213: -8452641951449235413
+    second: side archerlvl3_157
+  - first:
+      213: -3010262935354732557
+    second: side archerlvl3_158
+  - first:
+      213: -4694762407300746406
+    second: side archerlvl3_159
+  - first:
+      213: 578157373109192368
+    second: side archerlvl3_160
+  - first:
+      213: 4671051575327881794
+    second: side archerlvl3_161
+  - first:
+      213: 4906955935817132621
+    second: side archerlvl3_162
+  - first:
+      213: -1542480241470237903
+    second: side archerlvl3_163
+  - first:
+      213: 8648136569652284058
+    second: side archerlvl3_164
+  - first:
+      213: -7652404370594962903
+    second: side archerlvl3_165
+  - first:
+      213: 276231567383445014
+    second: side archerlvl3_166
+  - first:
+      213: -2291978672876641272
+    second: side archerlvl3_167
+  - first:
+      213: 4577096493912650599
+    second: side archerlvl3_168
+  - first:
+      213: -7853759360999559515
+    second: side archerlvl3_169
+  - first:
+      213: -8884367326889062705
+    second: side archerlvl3_170
+  - first:
+      213: -9118268662093161690
+    second: side archerlvl3_171
+  - first:
+      213: -417612553317768963
+    second: side archerlvl3_172
+  - first:
+      213: 6096243501195115225
+    second: side archerlvl3_173
+  - first:
+      213: 6774675228784676129
+    second: side archerlvl3_174
+  - first:
+      213: -4222521143454858377
+    second: side archerlvl3_175
+  - first:
+      213: -3259697962123707839
+    second: side archerlvl3_176
+  - first:
+      213: 5935460243484142239
+    second: side archerlvl3_177
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: side archerlvl3_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1281
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56efb349196a37f0800000000000000
+      internalID: -632077240460384674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1281
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6be42f628c53cf0800000000000000
+      internalID: -273092132786489671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1281
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db22484e0bdd82350800000000000000
+      internalID: 5992283056034292413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1281
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcd8a41118eb9db0800000000000000
+      internalID: -4783975019092321104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1281
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42e1d2b6e43b2c30800000000000000
+      internalID: 4335617231721456205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1281
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae42cf9591529cee0800000000000000
+      internalID: -1240419431549754134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1281
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62bc15aa4d0bb8c0800000000000000
+      internalID: -3982574831230209427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1217
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454f1516d17f034c0800000000000000
+      internalID: -4309673137834691500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1217
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30ea2f138eb50fe0800000000000000
+      internalID: -1223362253388324804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1217
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9df892f1e01b4680800000000000000
+      internalID: -8769897286750110309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1217
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba3dd0ff52c20d20800000000000000
+      internalID: 3243368398978890421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1217
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c0f57160e2c1360800000000000000
+      internalID: 7141633712799550554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_12
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1217
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bf9ad51a66671a0800000000000000
+      internalID: -6812144543104107771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_13
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1217
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c835c988f50e62a0800000000000000
+      internalID: -6742445027105621824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1153
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb73a2a19fd7ec30800000000000000
+      internalID: 4388722178487712694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1153
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6db85f4fc3f697c0800000000000000
+      internalID: -4064793541940298389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1153
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a91d36a23333fff0800000000000000
+      internalID: -3602882066835034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1153
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8fc78f38d747460800000000000000
+      internalID: 7238548506854357246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1153
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3648f3b703dec2c90800000000000000
+      internalID: -7193113712335551389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1153
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ea04a83ba20b020800000000000000
+      internalID: 2355429555721776684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1153
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ce842c6ede84d70800000000000000
+      internalID: 9027727028421979166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1089
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dbd77096ba715b0800000000000000
+      internalID: -5397657160794653402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1089
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9340d1394a06e70800000000000000
+      internalID: 9106459398297106934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1089
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79b50ec3e7feb9e0800000000000000
+      internalID: -1603571859511199361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1089
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e32cc496807e380800000000000000
+      internalID: -8942169286768443890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1089
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee3e49806c7974f0800000000000000
+      internalID: -830495902210834710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1089
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08aa8a4d98ad155f0800000000000000
+      internalID: -769593775790445952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1089
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c284c0078faee90800000000000000
+      internalID: -6995505911040562050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1025
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13eb199eaeae09730800000000000000
+      internalID: 4003958363394260529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1023
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03a9bb6f9e5906b0800000000000000
+      internalID: -5329624645216132338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1023
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b9784f095dddb40800000000000000
+      internalID: 5466760341252184937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1023
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1282b92b0b88725b0800000000000000
+      internalID: -5393191736260745183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1023
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b271b7ff248027790800000000000000
+      internalID: -7533950142790297813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_33
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1023
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab919dc21e0e5850800000000000000
+      internalID: 6367542397069532065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1023
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678db6a07e492dce0800000000000000
+      internalID: -1381878415616124810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_35
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1023
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343e16d70a92e5a40800000000000000
+      internalID: 5358766375892542275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 961
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d737593290cfa50800000000000000
+      internalID: 6556125205980478803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_37
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 961
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5fe390b1ef30550800000000000000
+      internalID: 6126019310226699760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_38
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 961
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83a604cf380ff9a0800000000000000
+      internalID: -6197225492273781875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_39
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 961
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00200ee40dd6fa700800000000000000
+      internalID: 553782020633788928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_40
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 961
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efed46f909c12e790800000000000000
+      internalID: -7502402621770768642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 961
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec21ede6816f5ba0800000000000000
+      internalID: -6098048138291893015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_42
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 961
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59c89819b93f1f70800000000000000
+      internalID: 9160103634239277404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_43
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 961
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378729388dc2fa1f0800000000000000
+      internalID: -1031556481212581773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 897
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958c84c557e495040800000000000000
+      internalID: 4636823557321050201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 898
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c67f7d70c9ceab0800000000000000
+      internalID: -4977431930649219999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 898
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8c58750282d5890800000000000000
+      internalID: -7467768487737964298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 898
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470cfc71fb89bb550800000000000000
+      internalID: 6177699260374433908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 898
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4060f14f9aab660800000000000000
+      internalID: 7402415803494434045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 898
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36607866492c41900800000000000000
+      internalID: 654361788506637923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 898
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58593aca5a918730800000000000000
+      internalID: 3999647658812201050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 898
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c52f461c20d33d0800000000000000
+      internalID: -3225418728481858475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 833
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9203beb666564fe0800000000000000
+      internalID: -1205180850988973412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 833
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df5055e11d4c6510800000000000000
+      internalID: 1543693511538270160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 833
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb264265597de410800000000000000
+      internalID: 1507994857866931170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 833
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cbb9a7a92a11500800000000000000
+      internalID: 365251829159410777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 833
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674c41e22d91f91f0800000000000000
+      internalID: -1036080998764985226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 833
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c466d6500c5d0bd0800000000000000
+      internalID: -2662370648179448638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 833
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c7caa7b66cd9ca0800000000000000
+      internalID: -6008428162920449023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 833
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31147e6aa5c08e420800000000000000
+      internalID: 2659389163449041171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_60
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 770
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078703dd558979c10800000000000000
+      internalID: 2060282849095874672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_61
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 770
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb13d9564a284de0800000000000000
+      internalID: -1348781606754378765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_62
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 769
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70da6ef8c10a0e0c0800000000000000
+      internalID: -4548459579110413049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_63
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 768
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97304345cd6c58b0800000000000000
+      internalID: -5162130378869164130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_64
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 769
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b274c4ba370eb5320800000000000000
+      internalID: 2547876801607911211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_65
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 770
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de746fb296e90150800000000000000
+      internalID: 5839451909813206741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_66
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 769
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d67bef35abeb1a40800000000000000
+      internalID: 5340120878152382167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_67
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 768
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4074f36ac290ba090800000000000000
+      internalID: -8022308223858030844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_68
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 769
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8ff25b3d66bf160800000000000000
+      internalID: 7060349900297337045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_69
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 705
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d02bfffb77f6650800000000000000
+      internalID: 6228328476189003130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_70
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 705
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05db9e0321de614b0800000000000000
+      internalID: -5469924035009069744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_71
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 706
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63dbbeaae0a2d120800000000000000
+      internalID: 2437187278175196012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_72
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 706
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bdd6efe503485c0800000000000000
+      internalID: -4214190166758270153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_73
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 705
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e11811b6e5125630800000000000000
+      internalID: 3914215106696188384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_74
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 705
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7c0b768654087f0800000000000000
+      internalID: -612413234603833380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_75
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 705
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4734630d5f38600800000000000000
+      internalID: 469489060789056711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_76
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 705
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a7bd4c274df6d30800000000000000
+      internalID: 4426990548122565277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_77
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 705
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d0b459662ef9770800000000000000
+      internalID: 8619857142029684064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 641
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0646d5193900f7670800000000000000
+      internalID: 8538544052316759136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 641
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02f958fdca2fdd10800000000000000
+      internalID: 2152486211029692941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 640
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331d99c9d0f6f6a00800000000000000
+      internalID: 751941767046746419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_81
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 640
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4615cee77f9e08810800000000000000
+      internalID: 1765668303124844900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 640
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7324f6530e2c14f30800000000000000
+      internalID: 4558138566100599351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 641
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a15d9e314c491aa0800000000000000
+      internalID: -6189832369736953435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3733cc8fd1d677820800000000000000
+      internalID: 2915919259241296755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 640
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6eeb08faeac89380800000000000000
+      internalID: -8964191947748282771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 640
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26ee015868b561c0800000000000000
+      internalID: -4510996693565643217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_87
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 577
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb68de5d215bb690800000000000000
+      internalID: -7585379892068848656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 577
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22789f3e041e3eb0800000000000000
+      internalID: -4738327706518130134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_89
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 578
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2844a9fc2a6a2c90800000000000000
+      internalID: -7193820713371547603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 578
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47a6e18dfd676210800000000000000
+      internalID: 1326149550857430861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 577
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1fc3bc293594bb0800000000000000
+      internalID: -4951334425377050153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 577
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e94930074041aad0800000000000000
+      internalID: -2692800428500235801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 577
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a9cebcba15dec30800000000000000
+      internalID: 4390255010058639985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_94
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 577
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3e03f04ee670650800000000000000
+      internalID: 6199045337885238188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 577
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f714506d201e6d0800000000000000
+      internalID: -2963083961598640329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_96
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 513
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76e6e85323817dc0800000000000000
+      internalID: -3642986435727399302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_97
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 512
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e2e60f5c2438720800000000000000
+      internalID: 2847192807338028545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_98
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 512
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0307f4285345c7140800000000000000
+      internalID: 4718739098373681200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_99
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 512
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4953ee1e307543f0800000000000000
+      internalID: -917203536991528630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_100
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 512
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d860ed68761ea250800000000000000
+      internalID: 5957724063553054936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_101
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 512
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c86d457531e06660800000000000000
+      internalID: 7377143809350396104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_102
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 449
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e08d3960a7faf90800000000000000
+      internalID: -6940194332085842397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_103
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 449
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf3f3c9ed8b864e0800000000000000
+      internalID: -1988135969240432675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_104
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 449
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc186b6757b28a70800000000000000
+      internalID: 8827819805691616464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_105
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 449
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7174f453270d8afe0800000000000000
+      internalID: -1177462113618147561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_106
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 449
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82f86d345c9e8660800000000000000
+      internalID: 7390015924183036559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 449
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee84658a68566b000800000000000000
+      internalID: 51340074785589486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 385
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01540c87384cee4a0800000000000000
+      internalID: -6562091538086607600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_109
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 385
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b64b91b27bd7cf0800000000000000
+      internalID: -252844608320148727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 385
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268b0369beb18fb00800000000000000
+      internalID: 862470027292489826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_111
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 385
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188a60fe856854c30800000000000000
+      internalID: 4343025132194146433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_112
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 385
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebc4df321ce2b0a0800000000000000
+      internalID: -6867166918662108189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_113
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 385
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd8715a1fb037600800000000000000
+      internalID: 464728319034101173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_114
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 321
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c315ac46fadf70b0800000000000000
+      internalID: -5728619449609284667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 321
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2bb7cefce3c7a50800000000000000
+      internalID: 6520155423272317613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_116
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 321
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f929a9e30f9850000800000000000000
+      internalID: 1559039819027103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 321
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d033697c10f2b520800000000000000
+      internalID: 2716497530344124627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 321
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac17cc3eafefda30800000000000000
+      internalID: 4242372905629326507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_119
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 321
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88258402189ce4e0800000000000000
+      internalID: -1951017335405598580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_120
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 257
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4afa05e97b0368a0800000000000000
+      internalID: -6313189634481653169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_121
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 255
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd6450611bec77e0800000000000000
+      internalID: -1766278493972959811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_122
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 255
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394cbf867e24533d0800000000000000
+      internalID: -3227599996274883437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_123
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 255
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15d7eeda357208e0800000000000000
+      internalID: -1728690411248560865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_124
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 255
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46f445218437fea0800000000000000
+      internalID: -5839140662581856689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_125
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 255
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49bb9a6d04031cc0800000000000000
+      internalID: -3741642409745073846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_126
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 255
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b5dc6be3d011f00800000000000000
+      internalID: 1085663548179045255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_127
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 255
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3110b3dd7d893ee00800000000000000
+      internalID: 1072869189141332243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_128
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 255
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34e2a2f61b64b1e0800000000000000
+      internalID: -2183002173063633862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_129
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 255
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22c261981238f2b0800000000000000
+      internalID: -5550631459634363861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_130
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 255
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a8aec5692e9f2d0800000000000000
+      internalID: -3244312921111885197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_131
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 255
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f5ae258542c6220800000000000000
+      internalID: 2480397456541114172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_132
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 255
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1517b8a992036d4a0800000000000000
+      internalID: -6569010051228667567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_133
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3834d422193b847b0800000000000000
+      internalID: -5239740730518453373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_134
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 193
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b79f7ac64e522c10800000000000000
+      internalID: 2027286440408225713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_135
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 193
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c1f8123845cb2d0800000000000000
+      internalID: -3261639107942605754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_136
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 191
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12eec2a56ddf1f10800000000000000
+      internalID: 2242754568046699034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_137
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 193
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8996926df3929160800000000000000
+      internalID: 7030844684768811403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_138
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 193
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbbe4cb139094cc0800000000000000
+      internalID: -3726437107455050816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 193
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d464677c8e3cf8a80800000000000000
+      internalID: -8462329770259626419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_140
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 193
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35387fcc32cc7fe0800000000000000
+      internalID: -1189862635098065606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_141
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 193
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc50ee6addbd0990800000000000000
+      internalID: -7418064265348621120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_142
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 193
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee882b8f6079299d0800000000000000
+      internalID: -2768984764681385746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_143
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 193
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678aa240eba5d0cf0800000000000000
+      internalID: -284471429294282634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_144
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 193
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af8aa2af61e3cd40800000000000000
+      internalID: 5603570230965735330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_145
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 193
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801027eb09a5f3210800000000000000
+      internalID: 1314869193932407048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_146
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 129
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3b308dc06dee970800000000000000
+      internalID: 8786195273698489301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_147
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 130
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3fe90f94a9adb90800000000000000
+      internalID: -7216285810547559473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_148
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 130
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3588308edde1a10800000000000000
+      internalID: 1882185682848863167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 127
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3608b09980f414b0800000000000000
+      internalID: -5470483173719144899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 129
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827ccc41f3009d8b0800000000000000
+      internalID: -5127066429852694744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 129
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f8f8ad2147e0900800000000000000
+      internalID: 652586620340375444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 129
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537ad86f1cb337fc0800000000000000
+      internalID: -3498386781285537995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 129
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838b523b1ce6a2df0800000000000000
+      internalID: -204229054878599112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_154
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 129
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed20b7d3ad629ca30800000000000000
+      internalID: 4235959643294859998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 128
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6032e9f055a9beae0800000000000000
+      internalID: -1518950759182490874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 128
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568158b8b794fbc30800000000000000
+      internalID: 4377298157797972069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_157
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 128
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20cd4eddee22ba80800000000000000
+      internalID: -8452641951449235413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 128
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff08a13fc56936d0800000000000000
+      internalID: -3010262935354732557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_159
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 65
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a533bf7e67ad8deb0800000000000000
+      internalID: -4694762407300746406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_160
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 65
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b642705117060800800000000000000
+      internalID: 578157373109192368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 65
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a72f2d8a8e2d040800000000000000
+      internalID: 4671051575327881794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_162
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4aefdaec62091440800000000000000
+      internalID: 4906955935817132621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_163
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 65
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1339b1e8462089ae0800000000000000
+      internalID: -1542480241470237903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_164
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 65
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a803be36a540870800000000000000
+      internalID: 8648136569652284058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_165
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 65
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9226a05e4c23dc590800000000000000
+      internalID: -7652404370594962903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_166
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 65
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61eb3a1a52f55d300800000000000000
+      internalID: 276231567383445014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 65
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804aa6a5a814130e0800000000000000
+      internalID: -2291978672876641272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_168
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 65
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763795eb20d158f30800000000000000
+      internalID: 4577096493912650599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_169
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 65
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aee830e877d10390800000000000000
+      internalID: -7853759360999559515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_170
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 65
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcec0b2dcf264b480800000000000000
+      internalID: -8884367326889062705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_171
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 65
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b5c5566f6657180800000000000000
+      internalID: -9118268662093161690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df020c96897543af0800000000000000
+      internalID: -417612553317768963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dab4014a253a9450800000000000000
+      internalID: 6096243501195115225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_174
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d49501a3b740e50800000000000000
+      internalID: 6774675228784676129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7730cc354679665c0800000000000000
+      internalID: -4222521143454858377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_176
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a3d8c59f933c2d0800000000000000
+      internalID: -3259697962123707839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side archerlvl3_177
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a635fd4adfe5250800000000000000
+      internalID: 5935460243484142239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      side archerlvl3_0: -632077240460384674
+      side archerlvl3_1: -273092132786489671
+      side archerlvl3_10: 3243368398978890421
+      side archerlvl3_100: 5957724063553054936
+      side archerlvl3_101: 7377143809350396104
+      side archerlvl3_102: -6940194332085842397
+      side archerlvl3_103: -1988135969240432675
+      side archerlvl3_104: 8827819805691616464
+      side archerlvl3_105: -1177462113618147561
+      side archerlvl3_106: 7390015924183036559
+      side archerlvl3_107: 51340074785589486
+      side archerlvl3_108: -6562091538086607600
+      side archerlvl3_109: -252844608320148727
+      side archerlvl3_11: 7141633712799550554
+      side archerlvl3_110: 862470027292489826
+      side archerlvl3_111: 4343025132194146433
+      side archerlvl3_112: -6867166918662108189
+      side archerlvl3_113: 464728319034101173
+      side archerlvl3_114: -5728619449609284667
+      side archerlvl3_115: 6520155423272317613
+      side archerlvl3_116: 1559039819027103
+      side archerlvl3_117: 2716497530344124627
+      side archerlvl3_118: 4242372905629326507
+      side archerlvl3_119: -1951017335405598580
+      side archerlvl3_12: -6812144543104107771
+      side archerlvl3_120: -6313189634481653169
+      side archerlvl3_121: -1766278493972959811
+      side archerlvl3_122: -3227599996274883437
+      side archerlvl3_123: -1728690411248560865
+      side archerlvl3_124: -5839140662581856689
+      side archerlvl3_125: -3741642409745073846
+      side archerlvl3_126: 1085663548179045255
+      side archerlvl3_127: 1072869189141332243
+      side archerlvl3_128: -2183002173063633862
+      side archerlvl3_129: -5550631459634363861
+      side archerlvl3_13: -6742445027105621824
+      side archerlvl3_130: -3244312921111885197
+      side archerlvl3_131: 2480397456541114172
+      side archerlvl3_132: -6569010051228667567
+      side archerlvl3_133: -5239740730518453373
+      side archerlvl3_134: 2027286440408225713
+      side archerlvl3_135: -3261639107942605754
+      side archerlvl3_136: 2242754568046699034
+      side archerlvl3_137: 7030844684768811403
+      side archerlvl3_138: -3726437107455050816
+      side archerlvl3_139: -8462329770259626419
+      side archerlvl3_14: 4388722178487712694
+      side archerlvl3_140: -1189862635098065606
+      side archerlvl3_141: -7418064265348621120
+      side archerlvl3_142: -2768984764681385746
+      side archerlvl3_143: -284471429294282634
+      side archerlvl3_144: 5603570230965735330
+      side archerlvl3_145: 1314869193932407048
+      side archerlvl3_146: 8786195273698489301
+      side archerlvl3_147: -7216285810547559473
+      side archerlvl3_148: 1882185682848863167
+      side archerlvl3_149: -5470483173719144899
+      side archerlvl3_15: -4064793541940298389
+      side archerlvl3_150: -5127066429852694744
+      side archerlvl3_151: 652586620340375444
+      side archerlvl3_152: -3498386781285537995
+      side archerlvl3_153: -204229054878599112
+      side archerlvl3_154: 4235959643294859998
+      side archerlvl3_155: -1518950759182490874
+      side archerlvl3_156: 4377298157797972069
+      side archerlvl3_157: -8452641951449235413
+      side archerlvl3_158: -3010262935354732557
+      side archerlvl3_159: -4694762407300746406
+      side archerlvl3_16: -3602882066835034
+      side archerlvl3_160: 578157373109192368
+      side archerlvl3_161: 4671051575327881794
+      side archerlvl3_162: 4906955935817132621
+      side archerlvl3_163: -1542480241470237903
+      side archerlvl3_164: 8648136569652284058
+      side archerlvl3_165: -7652404370594962903
+      side archerlvl3_166: 276231567383445014
+      side archerlvl3_167: -2291978672876641272
+      side archerlvl3_168: 4577096493912650599
+      side archerlvl3_169: -7853759360999559515
+      side archerlvl3_17: 7238548506854357246
+      side archerlvl3_170: -8884367326889062705
+      side archerlvl3_171: -9118268662093161690
+      side archerlvl3_172: -417612553317768963
+      side archerlvl3_173: 6096243501195115225
+      side archerlvl3_174: 6774675228784676129
+      side archerlvl3_175: -4222521143454858377
+      side archerlvl3_176: -3259697962123707839
+      side archerlvl3_177: 5935460243484142239
+      side archerlvl3_18: -7193113712335551389
+      side archerlvl3_19: 2355429555721776684
+      side archerlvl3_2: 5992283056034292413
+      side archerlvl3_20: 9027727028421979166
+      side archerlvl3_21: -5397657160794653402
+      side archerlvl3_22: 9106459398297106934
+      side archerlvl3_23: -1603571859511199361
+      side archerlvl3_24: -8942169286768443890
+      side archerlvl3_25: -830495902210834710
+      side archerlvl3_26: -769593775790445952
+      side archerlvl3_27: -6995505911040562050
+      side archerlvl3_28: 4003958363394260529
+      side archerlvl3_29: -5329624645216132338
+      side archerlvl3_3: -4783975019092321104
+      side archerlvl3_30: 5466760341252184937
+      side archerlvl3_31: -5393191736260745183
+      side archerlvl3_32: -7533950142790297813
+      side archerlvl3_33: 6367542397069532065
+      side archerlvl3_34: -1381878415616124810
+      side archerlvl3_35: 5358766375892542275
+      side archerlvl3_36: 6556125205980478803
+      side archerlvl3_37: 6126019310226699760
+      side archerlvl3_38: -6197225492273781875
+      side archerlvl3_39: 553782020633788928
+      side archerlvl3_4: 4335617231721456205
+      side archerlvl3_40: -7502402621770768642
+      side archerlvl3_41: -6098048138291893015
+      side archerlvl3_42: 9160103634239277404
+      side archerlvl3_43: -1031556481212581773
+      side archerlvl3_44: 4636823557321050201
+      side archerlvl3_45: -4977431930649219999
+      side archerlvl3_46: -7467768487737964298
+      side archerlvl3_47: 6177699260374433908
+      side archerlvl3_48: 7402415803494434045
+      side archerlvl3_49: 654361788506637923
+      side archerlvl3_5: -1240419431549754134
+      side archerlvl3_50: 3999647658812201050
+      side archerlvl3_51: -3225418728481858475
+      side archerlvl3_52: -1205180850988973412
+      side archerlvl3_53: 1543693511538270160
+      side archerlvl3_54: 1507994857866931170
+      side archerlvl3_55: 365251829159410777
+      side archerlvl3_56: -1036080998764985226
+      side archerlvl3_57: -2662370648179448638
+      side archerlvl3_58: -6008428162920449023
+      side archerlvl3_59: 2659389163449041171
+      side archerlvl3_6: -3982574831230209427
+      side archerlvl3_60: 2060282849095874672
+      side archerlvl3_61: -1348781606754378765
+      side archerlvl3_62: -4548459579110413049
+      side archerlvl3_63: -5162130378869164130
+      side archerlvl3_64: 2547876801607911211
+      side archerlvl3_65: 5839451909813206741
+      side archerlvl3_66: 5340120878152382167
+      side archerlvl3_67: -8022308223858030844
+      side archerlvl3_68: 7060349900297337045
+      side archerlvl3_69: 6228328476189003130
+      side archerlvl3_7: -4309673137834691500
+      side archerlvl3_70: -5469924035009069744
+      side archerlvl3_71: 2437187278175196012
+      side archerlvl3_72: -4214190166758270153
+      side archerlvl3_73: 3914215106696188384
+      side archerlvl3_74: -612413234603833380
+      side archerlvl3_75: 469489060789056711
+      side archerlvl3_76: 4426990548122565277
+      side archerlvl3_77: 8619857142029684064
+      side archerlvl3_78: 8538544052316759136
+      side archerlvl3_79: 2152486211029692941
+      side archerlvl3_8: -1223362253388324804
+      side archerlvl3_80: 751941767046746419
+      side archerlvl3_81: 1765668303124844900
+      side archerlvl3_82: 4558138566100599351
+      side archerlvl3_83: -6189832369736953435
+      side archerlvl3_84: 2915919259241296755
+      side archerlvl3_85: -8964191947748282771
+      side archerlvl3_86: -4510996693565643217
+      side archerlvl3_87: -7585379892068848656
+      side archerlvl3_88: -4738327706518130134
+      side archerlvl3_89: -7193820713371547603
+      side archerlvl3_9: -8769897286750110309
+      side archerlvl3_90: 1326149550857430861
+      side archerlvl3_91: -4951334425377050153
+      side archerlvl3_92: -2692800428500235801
+      side archerlvl3_93: 4390255010058639985
+      side archerlvl3_94: 6199045337885238188
+      side archerlvl3_95: -2963083961598640329
+      side archerlvl3_96: -3642986435727399302
+      side archerlvl3_97: 2847192807338028545
+      side archerlvl3_98: 4718739098373681200
+      side archerlvl3_99: -917203536991528630
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

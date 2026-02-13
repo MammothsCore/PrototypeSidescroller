@@ -16,6 +16,7 @@ public class PlayerMovement : MonoBehaviour
 
     private Rigidbody2D rb;
     private Collider2D myCollider;
+    public Animator anim;
     private bool isGrounded;
 
     private readonly Collider2D[] hitBuffer = new Collider2D[8];
@@ -27,6 +28,7 @@ public class PlayerMovement : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         myCollider = GetComponent<Collider2D>();
+        anim = GetComponent<Animator>();
 
         // Auto-create GroundCheck if not assigned
         if (groundCheck == null)
@@ -100,11 +102,21 @@ public class PlayerMovement : MonoBehaviour
 
     private void Move()
     {
-        float moveInput = 0f;
-        if (Keyboard.current.leftArrowKey.isPressed) moveInput = -1f;
-        if (Keyboard.current.rightArrowKey.isPressed) moveInput = 1f;
+        float moveX = 0f; // for horizontal movement
+        float moveY = 0f; // for vertical movement
+       
+        if (Keyboard.current.leftArrowKey.isPressed) moveX = -1f;
+        if (Keyboard.current.rightArrowKey.isPressed) moveX = 1f;
+        if (Keyboard.current.upArrowKey.isPressed) moveY = 1f; // stop horizontal movement when up is pressed
+        if (Keyboard.current.downArrowKey.isPressed) moveY = -1f; // stop horizontal movement when down is pressed
 
-        rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
+        rb.linearVelocity = new Vector2(moveX * moveSpeed, rb.linearVelocity.y);
+        rb.linearVelocity = new Vector2(rb.linearVelocity.x, moveY * moveSpeed); // for vertical movement
+        
+        anim.SetFloat("moveX", moveX); // set Speed parameter for animation
+        anim.SetFloat("moveY", moveY); // set VerticalSpeed parameter for animation
+        
+
     }
 
     private void Jump()
@@ -121,7 +133,7 @@ public class PlayerMovement : MonoBehaviour
         if (groundCheck == null) return;
         Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
     }
-    
-    
-   
+
+  
+
 }
