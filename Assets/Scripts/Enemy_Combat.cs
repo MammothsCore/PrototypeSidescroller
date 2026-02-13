@@ -7,6 +7,6 @@ public class Enemy_Combat : MonoBehaviour
 
 
     {
-    collision.gameObject.GetComponent<PlayerHealth>().ChangeHealth(-damge);
+        collision.gameObject.GetComponent<PlayerHealth>().ChangeHealth(-damge);
     }
 }
