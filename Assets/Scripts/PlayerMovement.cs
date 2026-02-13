@@ -47,6 +47,7 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+
     private void OnTriggerExit2D(Collider2D other)
     {
         var chest = other.GetComponent<Chest>();
@@ -120,4 +121,7 @@ public class PlayerMovement : MonoBehaviour
         if (groundCheck == null) return;
         Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
     }
+    
+    
+   
 }
