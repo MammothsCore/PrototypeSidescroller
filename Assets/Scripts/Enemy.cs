@@ -1,40 +1,49 @@
-//using UnityEngine;
+using UnityEngine;
 
-//public class Enemy : MonoBehaviour
-//{
-//    public Rigidbody2D RB { get; private set; }
+public class Enemy : MonoBehaviour
+{
+    //Variables
+    public int FacingDirection { get; private set; } = 1;
 
-//    public EnemyConfig Config;
+    //Component
+    public Rigidbody2D RB { get; private set; }
 
-//    public Enemy_Senses Senses { get; private set; }
+    public EnemyConfig Config;
 
-//    public StateMachine StateMachine { get; private set; }
+    public Enemy_Senses Senses { get; private set; }
 
-
-//    private void Awake()
-//    {
-//        RB = GetComponent<Rigidbody2D>();
-//        StateMachine = new StateMachine();
-//        Senses = GetComponent<Enemy_Senses>();
-//    }
-//    public void Initialize(State startingState)
-//    {
-//        StateMachine.Initialize(new PatrolState(this));
-//    }
-
-//    public void Start()
-//    {
-//        StateMachine.Initialize(new PatrolState(this));
-//    }
-
-//    private void Update()
-//    {
-//        StateMachine.CurrentState?.Update();
-//    }
+    public StateMachine StateMachine{ get; private set; }
 
 
-//    private void FixedUpdate()
-//    {
-//        StateMachine.CurrentState?.FixedUpdate();
-//    }
-//}
+    private void Awake()
+    {
+        RB = GetComponent<Rigidbody2D>();
+        StateMachine = new StateMachine();
+        Senses = GetComponent<Enemy_Senses>();
+    }
+
+    private void Start()
+    {
+        StateMachine.Initialize(new PatrolState(this));
+    }
+
+    private void Update()
+    {
+        StateMachine.CurrentState?.Update();
+    }
+
+
+    private void FixedUpdate()
+    {
+        StateMachine.CurrentState?.FixedUpdate();
+    }
+
+    public void Flip()
+    {
+        FacingDirection *= -1;
+        
+        Vector3 scale = transform.localScale;
+        scale.x = FacingDirection;
+        transform.localScale = scale;
+    }
+}
