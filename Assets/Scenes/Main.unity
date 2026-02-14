@@ -17607,8 +17607,6 @@ GameObject:
   - component: {fileID: 1965524582}
   - component: {fileID: 1965524581}
   - component: {fileID: 1965524583}
-  - component: {fileID: 1965524584}
-  - component: {fileID: 1965524585}
   - component: {fileID: 1965524586}
   - component: {fileID: 1965524587}
   m_Layer: 0
@@ -17800,34 +17798,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &1965524584
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1965524576}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9e85537d84b549f478fac3dac11dd8f0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Enemy
-  Config: {fileID: 11400000, guid: 75dfa755baa1b6a438db43c2864a6e29, type: 2}
---- !u!114 &1965524585
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1965524576}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 91da0dadc95e4514f9de4723dc2fd383, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Enemy_Senses
-  config: {fileID: 11400000, guid: 75dfa755baa1b6a438db43c2864a6e29, type: 2}
-  groundCheck: {fileID: 9880994}
-  wallCheck: {fileID: 766838721}
 --- !u!114 &1965524586
 MonoBehaviour:
   m_ObjectHideFlags: 0
