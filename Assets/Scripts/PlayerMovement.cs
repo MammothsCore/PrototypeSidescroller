@@ -1,7 +1,6 @@
 using Cainos.PixelArtPlatformer_VillageProps;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using Cainos.PixelArtPlatformer_VillageProps;
 using UnityEngine.UI;
 
 public class PlayerMovement : MonoBehaviour
@@ -18,6 +17,9 @@ public class PlayerMovement : MonoBehaviour
     private Collider2D myCollider;
     public Animator anim;
     private bool isGrounded;
+
+    
+    public Player_Attack player_Combat;
 
     private readonly Collider2D[] hitBuffer = new Collider2D[8];
 
@@ -71,6 +73,7 @@ public class PlayerMovement : MonoBehaviour
         Move();
         Jump();
         Interact();
+        Attack();
     }
     private void Interact()
     {
@@ -132,6 +135,14 @@ public class PlayerMovement : MonoBehaviour
     {
         if (groundCheck == null) return;
         Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
+    }
+
+    public void Attack()
+    {
+        if (Keyboard.current.aKey.isPressed)
+        {
+         player_Combat.Attack();
+        }
     }
 
   

@@ -17989,6 +17989,7 @@ GameObject:
   - component: {fileID: 1933553678}
   - component: {fileID: 1933553679}
   - component: {fileID: 1933553680}
+  - component: {fileID: 1933553681}
   m_Layer: 8
   m_Name: Player1
   m_TagString: Player
@@ -18013,6 +18014,7 @@ MonoBehaviour:
   groundCheck: {fileID: 0}
   groundCheckRadius: 0.15
   anim: {fileID: 1933553678}
+  player_Combat: {fileID: 1933553681}
   pressEText: {fileID: 104829182}
 --- !u!50 &1933553674
 Rigidbody2D:
@@ -18194,6 +18196,19 @@ CapsuleCollider2D:
   m_Offset: {x: 0.0029338996, y: 0.011735758}
   m_Size: {x: 0.22024648, y: 0.43024635}
   m_Direction: 0
+--- !u!114 &1933553681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1933553672}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96cd076c618da2d4499f6fec905084fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Player_Attack
+  anim: {fileID: 1933553678}
 --- !u!1 &1951570701
 GameObject:
   m_ObjectHideFlags: 0
@@ -18401,7 +18416,7 @@ Canvas:
   serializedVersion: 3
   m_RenderMode: 1
   m_Camera: {fileID: 1951570707}
-  m_PlaneDistance: -3
+  m_PlaneDistance: 0
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
   m_OverrideSorting: 0
@@ -18942,8 +18957,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 63.8699, y: 4.1614}
-  m_SizeDelta: {x: -179.0953, y: 60}
+  m_AnchoredPosition: {x: 65.24307, y: 4.1614}
+  m_SizeDelta: {x: -176.349, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2056690359
 MonoBehaviour:
