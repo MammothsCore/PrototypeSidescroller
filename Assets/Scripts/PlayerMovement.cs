@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class PlayerMovement : MonoBehaviour
 {
-    
+
     public float moveSpeed = 8f;
     public float jumpForce = 12f;
 
@@ -18,7 +18,7 @@ public class PlayerMovement : MonoBehaviour
     public Animator anim;
     private bool isGrounded;
 
-    
+
     public Player_Attack player_Combat;
 
     private readonly Collider2D[] hitBuffer = new Collider2D[8];
@@ -75,6 +75,12 @@ public class PlayerMovement : MonoBehaviour
         Interact();
         Attack();
     }
+
+    void Start()
+    {
+        anim = GetComponent<Animator>();
+    }
+
     private void Interact()
     {
         if (Keyboard.current.eKey.wasPressedThisFrame && currentChest != null)
@@ -103,24 +109,40 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    private Vector2 lastMoveDir = Vector2.down; // optional Default Richtung
+
     private void Move()
+
     {
-        float moveX = 0f; // for horizontal movement
-        float moveY = 0f; // for vertical movement
-       
+        float moveX = 0f;
+        float moveY = 0f;
+
         if (Keyboard.current.leftArrowKey.isPressed) moveX = -1f;
-        if (Keyboard.current.rightArrowKey.isPressed) moveX = 1f;
-        if (Keyboard.current.upArrowKey.isPressed) moveY = 1f; // stop horizontal movement when up is pressed
-        if (Keyboard.current.downArrowKey.isPressed) moveY = -1f; // stop horizontal movement when down is pressed
+        else if (Keyboard.current.rightArrowKey.isPressed) moveX = 1f;
 
-        rb.linearVelocity = new Vector2(moveX * moveSpeed, rb.linearVelocity.y);
-        rb.linearVelocity = new Vector2(rb.linearVelocity.x, moveY * moveSpeed); // for vertical movement
-        
-        anim.SetFloat("moveX", moveX); // set Speed parameter for animation
-        anim.SetFloat("moveY", moveY); // set VerticalSpeed parameter for animation
-        
+        if (Keyboard.current.upArrowKey.isPressed) moveY = 1f;
+        else if (Keyboard.current.downArrowKey.isPressed) moveY = -1f;
 
+        // optional: Diagonale verhindern (4-way)
+        if (moveX != 0f && moveY != 0f)
+            moveY = 0f;
+
+        Vector2 moveDir = new Vector2(moveX, moveY);
+
+        // Bewegung setzen (einmal!)
+        rb.linearVelocity = new Vector2(moveDir.x * moveSpeed, moveDir.y * moveSpeed);
+
+        anim.SetFloat("moveX", moveDir.x);
+        anim.SetFloat("moveY", moveDir.y);
+
+        // letzte Richtung speichern oder resetten
+        if (moveDir != Vector2.zero)
+            lastMoveDir = moveDir;
+        else
+            lastMoveDir = Vector2.zero; // wenn du NICHT resetten willst: diese Zeile löschen
     }
+
+
 
     private void Jump()
     {
@@ -139,12 +161,21 @@ public class PlayerMovement : MonoBehaviour
 
     public void Attack()
     {
-        if (Keyboard.current.aKey.isPressed)
+        if (!Keyboard.current.aKey.isPressed)
+            return;
+
+        if (lastMoveDir == Vector2.zero)
+            return;
+
+        if (Mathf.Abs(lastMoveDir.x) > Mathf.Abs(lastMoveDir.y))
         {
-         player_Combat.Attack();
+            if (lastMoveDir.x > 0) player_Combat.AttackRight();
+            else player_Combat.AttackLeft();
+        }
+        else
+        {
+            if (lastMoveDir.y > 0) player_Combat.AttackUp();
+            else player_Combat.AttackDown();
         }
     }
-
-  
-
 }
