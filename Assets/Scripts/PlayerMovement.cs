@@ -21,7 +21,15 @@ public class PlayerMovement : MonoBehaviour
 
     public Player_Attack player_Combat;
 
+    [Header("Combat")]
+    public float attackDuration = 0.2f;
+    public float attackCooldown = 0.1f;
+
     private readonly Collider2D[] hitBuffer = new Collider2D[8];
+    private float attackEndTime;
+    private float nextAttackTime;
+    private bool IsAttackActive => Time.time < attackEndTime;
+
 
     [Header("Interaction")]
     public Text pressEText;           // im Inspector zuweisen
@@ -69,11 +77,12 @@ public class PlayerMovement : MonoBehaviour
     }
     private void Update()
     {
+        Attack();
         UpdateGrounded();
         Move();
         Jump();
         Interact();
-        Attack();
+      
     }
 
     void Start()
@@ -114,6 +123,14 @@ public class PlayerMovement : MonoBehaviour
     private void Move()
 
     {
+        if (IsAttackActive)
+        {
+            rb.linearVelocity = Vector2.zero;
+            anim.SetFloat("moveX", 0f);
+            anim.SetFloat("moveY", 0f);
+            return;
+        }
+
         float moveX = 0f;
         float moveY = 0f;
 
@@ -138,8 +155,7 @@ public class PlayerMovement : MonoBehaviour
         // letzte Richtung speichern oder resetten
         if (moveDir != Vector2.zero)
             lastMoveDir = moveDir;
-        else
-            lastMoveDir = Vector2.zero; // wenn du NICHT resetten willst: diese Zeile löschen
+        
     }
 
 
@@ -160,12 +176,24 @@ public class PlayerMovement : MonoBehaviour
     }
 
     public void Attack()
-    {
-        if (!Keyboard.current.aKey.isPressed)
+    { 
+        if (Keyboard.current == null)
+                return;
+
+        if (!Keyboard.current.aKey.wasPressedThisFrame)
+            return;
+
+        if (Time.time < nextAttackTime)
             return;
 
         if (lastMoveDir == Vector2.zero)
             return;
+
+        attackEndTime = Time.time + attackDuration;
+        nextAttackTime = Time.time + attackDuration + attackCooldown;
+
+        rb.linearVelocity = Vector2.zero;
+        player_Combat.ResetAttack();
 
         if (Mathf.Abs(lastMoveDir.x) > Mathf.Abs(lastMoveDir.y))
         {

@@ -1262,7 +1262,7 @@ GameObject:
   m_Component:
   - component: {fileID: 765358285}
   m_Layer: 0
-  m_Name: firePoint
+  m_Name: firePointUP
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1277,7 +1277,7 @@ Transform:
   m_GameObject: {fileID: 765358284}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.036, y: 0.419, z: 0}
+  m_LocalPosition: {x: -0.036, y: 0.412, z: 0}
   m_LocalScale: {x: 1.6666667, y: 1.6666667, z: 1.6666667}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -17643,6 +17643,37 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1965524580}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1105176641
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1105176642}
+  m_Layer: 0
+  m_Name: firePointRight
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1105176642
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1105176641}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: 0.415, y: 0.02, z: 0}
+  m_LocalScale: {x: 1.6666667, y: 1.6666667, z: 1.6666667}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1933553677}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}
 --- !u!1 &1156746177
 GameObject:
   m_ObjectHideFlags: 0
@@ -17969,6 +18000,37 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!1 &1405262575
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1405262576}
+  m_Layer: 0
+  m_Name: firePointLeft
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1405262576
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1405262575}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0.384, y: -0.019, z: 0}
+  m_LocalScale: {x: 1.6666667, y: 1.6666667, z: 1.6666667}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1933553677}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!1 &1511365091
 GameObject:
   m_ObjectHideFlags: 0
@@ -18005,6 +18067,37 @@ RectTransform:
   m_AnchoredPosition: {x: -5, y: 0}
   m_SizeDelta: {x: -20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &1699158905
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1699158906}
+  m_Layer: 0
+  m_Name: firePointDown
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1699158906
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1699158905}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -1, w: 0}
+  m_LocalPosition: {x: 0.008, y: -0.572, z: 0}
+  m_LocalScale: {x: 1.6666667, y: 1.6666667, z: 1.6666667}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1933553677}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -180}
 --- !u!1 &1933553672
 GameObject:
   m_ObjectHideFlags: 0
@@ -18047,6 +18140,8 @@ MonoBehaviour:
   groundCheckRadius: 0.15
   anim: {fileID: 1933553678}
   player_Combat: {fileID: 1933553681}
+  attackDuration: 0.2
+  attackCooldown: 0.1
   pressEText: {fileID: 104829182}
 --- !u!50 &1933553674
 Rigidbody2D:
@@ -18148,6 +18243,9 @@ RectTransform:
   m_Children:
   - {fileID: 1338574893}
   - {fileID: 765358285}
+  - {fileID: 1405262576}
+  - {fileID: 1105176642}
+  - {fileID: 1699158906}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -18254,8 +18352,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83c06bfe60b32d743b86b42938218660, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Shooting
-  bulletPrefab: {fileID: 5985054293549775390, guid: 33e064e3f9586814583e1e2cc0afd24a, type: 3}
-  firePoint: {fileID: 765358285}
+  arrowUp: {fileID: 5985054293549775390, guid: 33e064e3f9586814583e1e2cc0afd24a, type: 3}
+  arrowDown: {fileID: 6436916975581505607, guid: 482d4b2bc2e2d9148bec8ab3b3f25b70, type: 3}
+  arrowLeft: {fileID: 1036360448405280698, guid: 4121c7dcb803629479259b0184797c7a, type: 3}
+  arrowRight: {fileID: 1520569393552452389, guid: 8bc27d3b757d93e44a66fb35317c5ad9, type: 3}
+  firePointUp: {fileID: 765358285}
+  firePointDown: {fileID: 1699158906}
+  firePointLeft: {fileID: 1405262576}
+  firePointRight: {fileID: 1105176642}
   bulletForce: 15
 --- !u!1 &1951570701
 GameObject:
